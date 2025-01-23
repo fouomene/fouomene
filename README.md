@@ -13,8 +13,16 @@ Scaling for Cloud Systems to Absorb Traffic Surges](peakforecast.pdf)<br />Danie
 [Migration d'une Architecture Microservice vers une Architecture Event-Driven Microservice avec Kafka](migrationdunearchitecturemicroserviceversunearchitectureevent-drivenmicroserviceaveckafka-220828021837-28ac3410.pdf)<br />Daniel Rene Pewo Fouomene
 
 [Architecture monolithique 2.0, Microservices obsolètes ?](Architecture-monolithique-2_0-MicroServices-obsoletes.pdf)<br />Daniel Rene Pewo Fouomene, Simon Pascal Ngos
+Daniel Rene Pewo Fouomene, Simon Pascal Ngos
+
+[Gestion de projet agile avec Scrum](https://fr.slideshare.net/slideshow/gestion-de-projet-agile-avec-scrum/251578877)<br />Daniel Rene Pewo Fouomene, Simon Pascal Ngos
+
+[Intégration d'un système de Notifications Push dans une app Android via Google Firebase Cloud Messaging (FCM) et un serveur LAMP](https://fr.slideshare.net/slideshow/intgration-dun-systme-de-notifications-push-dans-une-app-android-via-google-firebase-cloud-messaging-fcm-et-un-serveur-lamp/84857327)<br />Daniel Rene Pewo Fouomene
+
+[Introduction à JPA (Java Persistence API )](https://fr.slideshare.net/slideshow/introduction-jpa-java-persistence-api/47250537)<br />Daniel Rene Pewo Fouomene
 
 [Bonnes pratiques développement android](https://fr.slideshare.net/slideshow/bonnes-pratiques-dveloppement-android/62685477)<br />Daniel Rene Pewo Fouomene
+
 
 
 
