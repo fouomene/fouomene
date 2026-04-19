@@ -5,7 +5,7 @@
 
 ![image](https://github.com/user-attachments/assets/d2e19f70-d27c-4c63-a6fa-ef8c5eff1219)
 
-[PeakForecast-MAPE_KL-Loop: An autonomic elasticity management model based on machine learning to absorb traffic surge in a cloud environment](PeakForcast-MAPE_KL-Loop.pdf)<br />Daniel Rene Pewo Fouomene
+[PeakForecast-MAPE_KL-Control-Loops: An autonomic elasticity management model based on machine learning to absorb traffic surge in a cloud environment](PeakForcast-MAPE_KL-Loop.pdf)<br />Daniel Rene Pewo Fouomene
 
 [PeakForecast : Efficient Predictive Elasticity Resource
 Scaling for Cloud Systems to Absorb Traffic Surges](peakforecast.pdf)<br />Daniel Rene Pewo Fouomene, Romain Rouvoy, Lionel Seinturier, Marcel Fouda Ndjodo
