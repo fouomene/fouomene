@@ -16,7 +16,7 @@ Scaling for Cloud Systems to Absorb Traffic Surges](peakforecast.pdf)<br />Danie
 
 [Architecture monolithique 2.0, Microservices obsolètes ?](Architecture-monolithique-2_0-MicroServices-obsoletes.pdf)<br />Daniel Rene Pewo Fouomene, Simon Pascal Ngos
 
-[Migration d’une Interface Homme Machine de l’architecture MVC vers l’architecture MVC 2: Cas d’étude l’application web de l’ERP ADempiere](memoireFouomene.pdf)<br />Daniel Rene Pewo Fouomene
+[Migration d’une Interface Homme Machine de l’architecture MVC vers l’architecture MVC 2: Cas d’étude l’application web de l’ERP ADempiere](memoireFouomene.pdf)<br />Daniel Rene Pewo Fouomene, Prosper Mendouga, Marcel Fouda Ndjodo
 
 [Gestion de projet agile avec Scrum](https://fr.slideshare.net/slideshow/gestion-de-projet-agile-avec-scrum/251578877)<br />Daniel Rene Pewo Fouomene, Simon Pascal Ngos
 
