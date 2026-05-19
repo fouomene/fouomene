@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHubCard](https://githubcard.com/fouomene.svg)
+![GitHubCard](https://githubcard.com/fouomene.svg?d=DaL14YoG)
 
 ![image](https://github.com/user-attachments/assets/d2e19f70-d27c-4c63-a6fa-ef8c5eff1219)
 
