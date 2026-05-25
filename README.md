@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/d2e19f70-d27c-4c63-a6fa-ef8c5eff1219)
 
+[GeoData Placefinder](https://geodataplacefinder.org): An open-source geocoding API that converts addresses into geographic coordinates and performs reverse geocoding, using Overture Maps geospatial data queried through DuckDB. (2026)
+
 [PeakForecast-MAPE_KL-Control-Loops: An autonomic elasticity management model based on machine learning to absorb traffic surge in a cloud environment](PeakForcast-MAPE_KL-Loop.pdf)<br />Daniel Rene Pewo Fouomene
 
 [PeakForecast : Efficient Predictive Elasticity Resource
